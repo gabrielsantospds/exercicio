@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(25, 185, 196);
+}
+h1 {
+    color: rgb(0, 0, 138);
+    background-color: rgb(40, 175, 153);
+}
+h2 {
+    color: darkred;
+}
+p {
+    text-align: justify;
+    color: blueviolet;
+}
